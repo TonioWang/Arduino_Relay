@@ -8,10 +8,6 @@ PS C:\Users\toniowang> $port.WriteLine("g")
 
 PS C:\Users\toniowang> $port.WriteLine("G")
 
-PS C:\Users\toniowang> $port.WriteLine("G")
-
-PS C:\Users\toniowang> $port.WriteLine("g")
-
 PS C:\Users\toniowang> $port.WriteLine("H")
 
 PS C:\Users\toniowang> $port.WriteLine("h")
@@ -19,5 +15,3 @@ PS C:\Users\toniowang> $port.WriteLine("h")
 PS C:\Users\toniowang> $port.WriteLine("F")
 
 PS C:\Users\toniowang> $port.WriteLine("f")
-
-PS C:\Users\toniowang> $port.WriteLine("F")
